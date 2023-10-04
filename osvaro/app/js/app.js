@@ -1,0 +1,1 @@
+"use strict";var $=Dom7,app=new Framework7({root:"#app",theme:"md",routes:routes,view:{pushState:!0}}),mainView=app.views.create(".view-main",{url:"./index.html"});
